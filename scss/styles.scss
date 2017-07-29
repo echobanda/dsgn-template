@@ -6,15 +6,12 @@
   margin: 0;
   padding: 0;
 }
-
 // colors
 $primary: #fff;
 $second: #000000;
 $third: #e9eae2;
 $fourth: #77cfc3;
-$five: #f3ece4;
-
-// common styles
+$five: #f3ece4; // common styles
 
 body {
   width: 1200px;
@@ -60,6 +57,7 @@ header {
       flex-wrap: wrap;
       align-items: flex-end;
       justify-content: flex-start;
+      border: 1px solid black;
 
       .header-logo {
         display: flex;
@@ -120,7 +118,81 @@ header {
 
       .right-up {
         display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-end;
         flex: 1 0 33%;
+
+        nav {
+          width: 80px;
+          height: 80px;
+          border: 2px solid $primary;
+          z-index: 99;
+          position: fixed;
+          flex-direction: row;
+          justify-content: center;
+          align-items: flex-end;
+
+          div {
+            position: fixed;
+            text-align: center;
+            flex-direction: row;
+            justify-content: center;
+            align-items: flex-end;
+          }
+
+          button {
+            position: relative;
+            display: inline-block;
+            padding: 0;
+            height: 40px;
+            width: 40px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            outline: 0;
+            margin-top: 25px;
+            margin-left: 20px;
+
+            span {
+              position: absolute;
+              display: block;
+              height: 2px;
+              width: 100%;
+              background: $primary;
+              transition: top 0.2s 0.2s linear, opacity 0.1s 0.2s linear, transform 0.2s linear;
+
+              &:nth-child(1) {
+                top: 0;
+              }
+
+              &:nth-child(2) {
+                top: 12px;
+              }
+
+              &:nth-child(3) {
+                top: 24px;
+              }
+            }
+          }
+
+          button.active span {
+            top: 12px;
+            transition: top 0.2s linear, opacity 0.1s 0.2s linear, transform 0.2s 0.2s linear;
+
+            &:nth-child(1) {
+              transform: rotate(45deg);
+            }
+
+            &:nth-child(2) {
+              opacity: 0;
+            }
+
+            &:nth-child(3) {
+              transform: rotate(-45deg);
+            }
+          }
+        }
       }
 
       .right-center {
