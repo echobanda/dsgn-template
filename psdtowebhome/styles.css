@@ -1,0 +1,1867 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1500px;
+	 height: 3800px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #bg 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1500px;
+	 height: 3900px;
+	 z-index:1;
+} 
+
+ #layer_2014 
+{ 
+	 left: 898px; 
+	 top: 3734px; 
+	 position: absolute; 
+	 width: 321px;
+	 height: 13px;
+	 z-index:2;
+} 
+
+ #copysymbol 
+{ 
+	 left: 879px; 
+	 top: 3732px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:3;
+} 
+
+ #facebookicon 
+{ 
+	 left: 1187px; 
+	 top: 3630px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 22px;
+	 z-index:4;
+} 
+
+ #twittericon 
+{ 
+	 left: 1214px; 
+	 top: 3630px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 21px;
+	 z-index:5;
+} 
+
+ #linicon 
+{ 
+	 left: 1249px; 
+	 top: 3629px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 23px;
+	 z-index:6;
+} 
+
+ #gicon 
+{ 
+	 left: 1286px; 
+	 top: 3631px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:7;
+} 
+
+ #ASSOCIATESSTUDIODESI 
+{ 
+	 left: 1167px; 
+	 top: 3517px; 
+	 position: absolute; 
+	 width: 90px;
+	 height: 51px;
+	 z-index:8;
+} 
+
+ #DSGN 
+{ 
+	 left: 1167px; 
+	 top: 3306px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 207px;
+	 z-index:9;
+} 
+
+ #6493456758infodsgnst 
+{ 
+	 left: 867px; 
+	 top: 3391px; 
+	 position: absolute; 
+	 width: 133px;
+	 height: 27px;
+	 z-index:10;
+} 
+
+ #90802CaliforniaLongb 
+{ 
+	 left: 867px; 
+	 top: 3306px; 
+	 position: absolute; 
+	 width: 98px;
+	 height: 67px;
+	 z-index:11;
+} 
+
+ #bg_0 
+{ 
+	 left: -3px; 
+	 top: 3155px; 
+	 position: absolute; 
+	 width: 756px;
+	 height: 646px;
+	 z-index:12;
+} 
+
+ #map 
+{ 
+	 left: -610px; 
+	 top: 2972px; 
+	 position: absolute; 
+	 width: 1929px;
+	 height: 973px;
+	 z-index:13;
+} 
+
+ #PIN1 
+{ 
+	 left: 276px; 
+	 top: 3419px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 64px;
+	 z-index:14;
+} 
+
+ #bgsection 
+{ 
+	 left: -1px; 
+	 top: 2655px; 
+	 position: absolute; 
+	 width: 1502px;
+	 height: 503px;
+	 z-index:15;
+} 
+
+ #bg_1 
+{ 
+	 left: -1px; 
+	 top: 2655px; 
+	 position: absolute; 
+	 width: 466px;
+	 height: 503px;
+	 z-index:16;
+} 
+
+ #line 
+{ 
+	 left: -2px; 
+	 top: 2652px; 
+	 position: absolute; 
+	 width: 470px;
+	 height: 506px;
+	 z-index:17;
+} 
+
+ #news 
+{ 
+	 left: 217px; 
+	 top: 2951px; 
+	 position: absolute; 
+	 width: 111px;
+	 height: 36px;
+	 z-index:18;
+} 
+
+ #bg_2 
+{ 
+	 left: 563px; 
+	 top: 2813px; 
+	 position: absolute; 
+	 width: 374px;
+	 height: 183px;
+	 z-index:19;
+} 
+
+ #img 
+{ 
+	 left: 492px; 
+	 top: 2786px; 
+	 position: absolute; 
+	 width: 700px;
+	 height: 301px;
+	 z-index:20;
+} 
+
+ #layer_11072014 
+{ 
+	 left: 566px; 
+	 top: 2786px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 11px;
+	 z-index:21;
+} 
+
+ #Maecenasimperdietnis 
+{ 
+	 left: 567px; 
+	 top: 3017px; 
+	 position: absolute; 
+	 width: 364px;
+	 height: 55px;
+	 z-index:22;
+} 
+
+ #readmore 
+{ 
+	 left: 873px; 
+	 top: 3081px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 11px;
+	 z-index:23;
+} 
+
+ #Maurisetduisedjustop 
+{ 
+	 left: 566px; 
+	 top: 2736px; 
+	 position: absolute; 
+	 width: 368px;
+	 height: 45px;
+	 z-index:24;
+} 
+
+ #bg_3 
+{ 
+	 left: 964px; 
+	 top: 2813px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 183px;
+	 z-index:25;
+} 
+
+ #img_0 
+{ 
+	 left: 936px; 
+	 top: 2659px; 
+	 position: absolute; 
+	 width: 480px;
+	 height: 480px;
+	 z-index:26;
+} 
+
+ #layer_11062014 
+{ 
+	 left: 966px; 
+	 top: 2786px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 11px;
+	 z-index:27;
+} 
+
+ #Praesentnonmaurisnec 
+{ 
+	 left: 967px; 
+	 top: 3017px; 
+	 position: absolute; 
+	 width: 364px;
+	 height: 41px;
+	 z-index:28;
+} 
+
+ #readmore_0 
+{ 
+	 left: 1273px; 
+	 top: 3081px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 11px;
+	 z-index:29;
+} 
+
+ #Proinvehiculanibhmas 
+{ 
+	 left: 967px; 
+	 top: 2736px; 
+	 position: absolute; 
+	 width: 294px;
+	 height: 19px;
+	 z-index:30;
+} 
+
+ #bg_4 
+{ 
+	 left: -1px; 
+	 top: 1764px; 
+	 position: absolute; 
+	 width: 468px;
+	 height: 503px;
+	 z-index:31;
+} 
+
+ #line_0 
+{ 
+	 left: -1px; 
+	 top: 1761px; 
+	 position: absolute; 
+	 width: 470px;
+	 height: 506px;
+	 z-index:32;
+} 
+
+ #studio 
+{ 
+	 left: 216px; 
+	 top: 2061px; 
+	 position: absolute; 
+	 width: 139px;
+	 height: 36px;
+	 z-index:33;
+} 
+
+ #Loremipsumdolorsitam 
+{ 
+	 left: 582px; 
+	 top: 1859px; 
+	 position: absolute; 
+	 width: 345px;
+	 height: 140px;
+	 z-index:34;
+} 
+
+ #Aeneanullamcorperpor 
+{ 
+	 left: 582px; 
+	 top: 2039px; 
+	 position: absolute; 
+	 width: 337px;
+	 height: 159px;
+	 z-index:35;
+} 
+
+ #awards 
+{ 
+	 left: 975px; 
+	 top: 2105px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 11px;
+	 z-index:36;
+} 
+
+ #sep 
+{ 
+	 left: 974px; 
+	 top: 2119px; 
+	 position: absolute; 
+	 width: 352px;
+	 height: 4px;
+	 z-index:37;
+} 
+
+ #Aeneanullamcorperpor_0 
+{ 
+	 left: 970px; 
+	 top: 2145px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 67px;
+	 z-index:38;
+} 
+
+ #Aeneanullamcorperpor_1 
+{ 
+	 left: 1173px; 
+	 top: 2145px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 67px;
+	 z-index:39;
+} 
+
+ #bgimg 
+{ 
+	 left: 969px; 
+	 top: 1860px; 
+	 position: absolute; 
+	 width: 362px;
+	 height: 202px;
+	 z-index:40;
+} 
+
+ #img_1 
+{ 
+	 left: 897px; 
+	 top: 1764px; 
+	 position: absolute; 
+	 width: 491px;
+	 height: 328px;
+	 z-index:41;
+} 
+
+ #STAFFSitametlaoreets 
+{ 
+	 left: 168px; 
+	 top: 2331px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 223px;
+	 z-index:42;
+} 
+
+ #bg_5 
+{ 
+	 left: 464px; 
+	 top: 2326px; 
+	 position: absolute; 
+	 width: 273px;
+	 height: 153px;
+	 z-index:43;
+} 
+
+ #img_2 
+{ 
+	 left: 396px; 
+	 top: 2276px; 
+	 position: absolute; 
+	 width: 300px;
+	 height: 301px;
+	 z-index:44;
+} 
+
+ #philippestarck 
+{ 
+	 left: 467px; 
+	 top: 2495px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 11px;
+	 z-index:45;
+} 
+
+ #designer 
+{ 
+	 left: 467px; 
+	 top: 2508px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 11px;
+	 z-index:46;
+} 
+
+ #CV 
+{ 
+	 left: 467px; 
+	 top: 2540px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 12px;
+	 z-index:47;
+} 
+
+ #layer_48 
+{ 
+	 left: 642px; 
+	 top: 2541px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 13px;
+	 z-index:48;
+} 
+
+ #layer_49 
+{ 
+	 left: 665px; 
+	 top: 2541px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 10px;
+	 z-index:49;
+} 
+
+ #layer_50 
+{ 
+	 left: 692px; 
+	 top: 2540px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 12px;
+	 z-index:50;
+} 
+
+ #layer_51 
+{ 
+	 left: 719px; 
+	 top: 2540px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 13px;
+	 z-index:51;
+} 
+
+ #arrowicon 
+{ 
+	 left: 487px; 
+	 top: 2537px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 19px;
+	 z-index:52;
+} 
+
+ #bg_6 
+{ 
+	 left: 763px; 
+	 top: 2326px; 
+	 position: absolute; 
+	 width: 273px;
+	 height: 153px;
+	 z-index:53;
+} 
+
+ #img_3 
+{ 
+	 left: 625px; 
+	 top: 2276px; 
+	 position: absolute; 
+	 width: 500px;
+	 height: 333px;
+	 z-index:54;
+} 
+
+ #mariobellini 
+{ 
+	 left: 767px; 
+	 top: 2495px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 11px;
+	 z-index:55;
+} 
+
+ #designer_0 
+{ 
+	 left: 767px; 
+	 top: 2508px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 11px;
+	 z-index:56;
+} 
+
+ #CV_0 
+{ 
+	 left: 767px; 
+	 top: 2540px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 12px;
+	 z-index:57;
+} 
+
+ #layer_58 
+{ 
+	 left: 942px; 
+	 top: 2541px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 13px;
+	 z-index:58;
+} 
+
+ #layer_59 
+{ 
+	 left: 965px; 
+	 top: 2541px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 10px;
+	 z-index:59;
+} 
+
+ #layer_60 
+{ 
+	 left: 992px; 
+	 top: 2540px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 12px;
+	 z-index:60;
+} 
+
+ #layer_61 
+{ 
+	 left: 1019px; 
+	 top: 2540px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 13px;
+	 z-index:61;
+} 
+
+ #arrowicon_0 
+{ 
+	 left: 787px; 
+	 top: 2537px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 19px;
+	 z-index:62;
+} 
+
+ #bg_7 
+{ 
+	 left: 1064px; 
+	 top: 2326px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 153px;
+	 z-index:63;
+} 
+
+ #img_4 
+{ 
+	 left: 1049px; 
+	 top: 2324px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 161px;
+	 z-index:64;
+} 
+
+ #patriciaurquiola 
+{ 
+	 left: 1067px; 
+	 top: 2495px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 12px;
+	 z-index:65;
+} 
+
+ #designer_1 
+{ 
+	 left: 1067px; 
+	 top: 2508px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 11px;
+	 z-index:66;
+} 
+
+ #CV_1 
+{ 
+	 left: 1067px; 
+	 top: 2540px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 12px;
+	 z-index:67;
+} 
+
+ #layer_68 
+{ 
+	 left: 1242px; 
+	 top: 2541px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 13px;
+	 z-index:68;
+} 
+
+ #layer_69 
+{ 
+	 left: 1265px; 
+	 top: 2541px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 10px;
+	 z-index:69;
+} 
+
+ #layer_70 
+{ 
+	 left: 1292px; 
+	 top: 2540px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 12px;
+	 z-index:70;
+} 
+
+ #layer_71 
+{ 
+	 left: 1319px; 
+	 top: 2540px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 13px;
+	 z-index:71;
+} 
+
+ #arrowicon_1 
+{ 
+	 left: 1087px; 
+	 top: 2537px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 19px;
+	 z-index:72;
+} 
+
+ #bg_8 
+{ 
+	 left: 1033px; 
+	 top: 1464px; 
+	 position: absolute; 
+	 width: 468px;
+	 height: 303px;
+	 z-index:73;
+} 
+
+ #line_1 
+{ 
+	 left: 1034px; 
+	 top: 1464px; 
+	 position: absolute; 
+	 width: 277px;
+	 height: 302px;
+	 z-index:74;
+} 
+
+ #layer_20142013201220112010 
+{ 
+	 left: 1135px; 
+	 top: 1545px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 67px;
+	 z-index:75;
+} 
+
+ #arrowicon_2 
+{ 
+	 left: 1105px; 
+	 top: 1540px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 19px;
+	 z-index:76;
+} 
+
+ #timeline 
+{ 
+	 left: 1135px; 
+	 top: 1526px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 10px;
+	 z-index:77;
+} 
+
+ #bg_9 
+{ 
+	 left: 734px; 
+	 top: 1464px; 
+	 position: absolute; 
+	 width: 302px;
+	 height: 303px;
+	 z-index:78;
+} 
+
+ #img_5 
+{ 
+	 left: 609px; 
+	 top: 1462px; 
+	 position: absolute; 
+	 width: 306px;
+	 height: 306px;
+	 z-index:79;
+} 
+
+ #Alessi 
+{ 
+	 left: 893px; 
+	 top: 1545px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 19px;
+	 z-index:80;
+} 
+
+ #designerPieroLissoni 
+{ 
+	 left: 892px; 
+	 top: 1581px; 
+	 position: absolute; 
+	 width: 121px;
+	 height: 35px;
+	 z-index:81;
+} 
+
+ #viewproject 
+{ 
+	 left: 888px; 
+	 top: 1648px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 15px;
+	 z-index:82;
+} 
+
+ #arrowicon_3 
+{ 
+	 left: 859px; 
+	 top: 1646px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 19px;
+	 z-index:83;
+} 
+
+ #heart 
+{ 
+	 left: 925px; 
+	 top: 1687px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 25px;
+	 z-index:84;
+} 
+
+ #layer_200 
+{ 
+	 left: 925px; 
+	 top: 1717px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 10px;
+	 z-index:85;
+} 
+
+ #bg_10 
+{ 
+	 left: -3px; 
+	 top: 1464px; 
+	 position: absolute; 
+	 width: 740px;
+	 height: 303px;
+	 z-index:86;
+} 
+
+ #img_6 
+{ 
+	 left: 131px; 
+	 top: 1492px; 
+	 position: absolute; 
+	 width: 467px;
+	 height: 156px;
+	 z-index:87;
+} 
+
+ #Sesann 
+{ 
+	 left: 152px; 
+	 top: 1668px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 19px;
+	 z-index:88;
+} 
+
+ #designerGianfrancoFr 
+{ 
+	 left: 151px; 
+	 top: 1696px; 
+	 position: absolute; 
+	 width: 161px;
+	 height: 47px;
+	 z-index:89;
+} 
+
+ #viewproject_0 
+{ 
+	 left: 390px; 
+	 top: 1695px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 15px;
+	 z-index:90;
+} 
+
+ #arrowicon_4 
+{ 
+	 left: 361px; 
+	 top: 1693px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 19px;
+	 z-index:91;
+} 
+
+ #heart_0 
+{ 
+	 left: 543px; 
+	 top: 1691px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 25px;
+	 z-index:92;
+} 
+
+ #layer_200_0 
+{ 
+	 left: 543px; 
+	 top: 1721px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 10px;
+	 z-index:93;
+} 
+
+ #bg_11 
+{ 
+	 left: 1033px; 
+	 top: 1212px; 
+	 position: absolute; 
+	 width: 468px;
+	 height: 255px;
+	 z-index:94;
+} 
+
+ #img_7 
+{ 
+	 left: 1013px; 
+	 top: 1234px; 
+	 position: absolute; 
+	 width: 286px;
+	 height: 216px;
+	 z-index:95;
+} 
+
+ #FIJI 
+{ 
+	 left: 1283px; 
+	 top: 1265px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 19px;
+	 z-index:96;
+} 
+
+ #designerCunoFrommher 
+{ 
+	 left: 1281px; 
+	 top: 1301px; 
+	 position: absolute; 
+	 width: 144px;
+	 height: 35px;
+	 z-index:97;
+} 
+
+ #viewproject_1 
+{ 
+	 left: 1314px; 
+	 top: 1363px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 15px;
+	 z-index:98;
+} 
+
+ #arrowicon_5 
+{ 
+	 left: 1285px; 
+	 top: 1361px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 19px;
+	 z-index:99;
+} 
+
+ #heart_1 
+{ 
+	 left: 1351px; 
+	 top: 1400px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 25px;
+	 z-index:100;
+} 
+
+ #layer_200_1 
+{ 
+	 left: 1351px; 
+	 top: 1430px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 10px;
+	 z-index:101;
+} 
+
+ #bg_12 
+{ 
+	 left: 1033px; 
+	 top: 750px; 
+	 position: absolute; 
+	 width: 468px;
+	 height: 467px;
+	 z-index:102;
+} 
+
+ #img_8 
+{ 
+	 left: 1007px; 
+	 top: 678px; 
+	 position: absolute; 
+	 width: 506px;
+	 height: 499px;
+	 z-index:103;
+} 
+
+ #tabano 
+{ 
+	 left: 1095px; 
+	 top: 1091px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 19px;
+	 z-index:104;
+} 
+
+ #DESIGNERPATRICIAURQU 
+{ 
+	 left: 1094px; 
+	 top: 1127px; 
+	 position: absolute; 
+	 width: 147px;
+	 height: 47px;
+	 z-index:105;
+} 
+
+ #viewproject_2 
+{ 
+	 left: 1295px; 
+	 top: 1126px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 15px;
+	 z-index:106;
+} 
+
+ #arrowicon_6 
+{ 
+	 left: 1264px; 
+	 top: 1123px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 19px;
+	 z-index:107;
+} 
+
+ #heart_2 
+{ 
+	 left: 1417px; 
+	 top: 1122px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 25px;
+	 z-index:108;
+} 
+
+ #layer_200_2 
+{ 
+	 left: 1417px; 
+	 top: 1152px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 10px;
+	 z-index:109;
+} 
+
+ #bg_13 
+{ 
+	 left: 298px; 
+	 top: 999px; 
+	 position: absolute; 
+	 width: 738px;
+	 height: 468px;
+	 z-index:110;
+} 
+
+ #img_9 
+{ 
+	 left: 213px; 
+	 top: 1039px; 
+	 position: absolute; 
+	 width: 832px;
+	 height: 388px;
+	 z-index:111;
+} 
+
+ #395396P22 
+{ 
+	 left: 659px; 
+	 top: 1092px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 19px;
+	 z-index:112;
+} 
+
+ #DesignerPatrickNorgu 
+{ 
+	 left: 658px; 
+	 top: 1128px; 
+	 position: absolute; 
+	 width: 141px;
+	 height: 47px;
+	 z-index:113;
+} 
+
+ #viewproject_3 
+{ 
+	 left: 863px; 
+	 top: 1096px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 15px;
+	 z-index:114;
+} 
+
+ #arrowicon_7 
+{ 
+	 left: 834px; 
+	 top: 1094px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 19px;
+	 z-index:115;
+} 
+
+ #heart_3 
+{ 
+	 left: 893px; 
+	 top: 1135px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 25px;
+	 z-index:116;
+} 
+
+ #layer_200_3 
+{ 
+	 left: 893px; 
+	 top: 1165px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 10px;
+	 z-index:117;
+} 
+
+ #bg_14 
+{ 
+	 left: -3px; 
+	 top: 999px; 
+	 position: absolute; 
+	 width: 304px;
+	 height: 468px;
+	 z-index:118;
+} 
+
+ #img_10 
+{ 
+	 left: -28px; 
+	 top: 999px; 
+	 position: absolute; 
+	 width: 378px;
+	 height: 466px;
+	 z-index:119;
+} 
+
+ #louisxx 
+{ 
+	 left: 32px; 
+	 top: 1041px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 19px;
+	 z-index:120;
+} 
+
+ #designerphilippestar 
+{ 
+	 left: 30px; 
+	 top: 1078px; 
+	 position: absolute; 
+	 width: 137px;
+	 height: 46px;
+	 z-index:121;
+} 
+
+ #viewproject_4 
+{ 
+	 left: 58px; 
+	 top: 1162px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 15px;
+	 z-index:122;
+} 
+
+ #arrowicon_8 
+{ 
+	 left: 29px; 
+	 top: 1160px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 19px;
+	 z-index:123;
+} 
+
+ #heart_4 
+{ 
+	 left: 98px; 
+	 top: 1207px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 25px;
+	 z-index:124;
+} 
+
+ #layer_200_4 
+{ 
+	 left: 98px; 
+	 top: 1237px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 10px;
+	 z-index:125;
+} 
+
+ #Rettangolo9 
+{ 
+	 left: 1033px; 
+	 top: 499px; 
+	 position: absolute; 
+	 width: 468px;
+	 height: 253px;
+	 z-index:126;
+} 
+
+ #img_11 
+{ 
+	 left: 1197px; 
+	 top: 503px; 
+	 position: absolute; 
+	 width: 302px;
+	 height: 252px;
+	 z-index:127;
+} 
+
+ #potter 
+{ 
+	 left: 1079px; 
+	 top: 536px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 19px;
+	 z-index:128;
+} 
+
+ #forsteltonPotterfocu 
+{ 
+	 left: 1078px; 
+	 top: 568px; 
+	 position: absolute; 
+	 width: 149px;
+	 height: 61px;
+	 z-index:129;
+} 
+
+ #viewproject_5 
+{ 
+	 left: 1105px; 
+	 top: 645px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 15px;
+	 z-index:130;
+} 
+
+ #arrowicon_9 
+{ 
+	 left: 1075px; 
+	 top: 643px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 19px;
+	 z-index:131;
+} 
+
+ #heart_5 
+{ 
+	 left: 1136px; 
+	 top: 684px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 25px;
+	 z-index:132;
+} 
+
+ #layer_200_5 
+{ 
+	 left: 1136px; 
+	 top: 714px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 10px;
+	 z-index:133;
+} 
+
+ #bg_15 
+{ 
+	 left: 464px; 
+	 top: 499px; 
+	 position: absolute; 
+	 width: 572px;
+	 height: 503px;
+	 z-index:134;
+} 
+
+ #img_12 
+{ 
+	 left: 680px; 
+	 top: 490px; 
+	 position: absolute; 
+	 width: 397px;
+	 height: 529px;
+	 z-index:135;
+} 
+
+ #FONDUE 
+{ 
+	 left: 568px; 
+	 top: 587px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 19px;
+	 z-index:136;
+} 
+
+ #ProjectAssistantFran 
+{ 
+	 left: 566px; 
+	 top: 623px; 
+	 position: absolute; 
+	 width: 210px;
+	 height: 59px;
+	 z-index:137;
+} 
+
+ #viewproject_6 
+{ 
+	 left: 602px; 
+	 top: 758px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 15px;
+	 z-index:138;
+} 
+
+ #heart_6 
+{ 
+	 left: 632px; 
+	 top: 886px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 25px;
+	 z-index:139;
+} 
+
+ #layer_200_6 
+{ 
+	 left: 632px; 
+	 top: 916px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 10px;
+	 z-index:140;
+} 
+
+ #arrowicon_10 
+{ 
+	 left: 573px; 
+	 top: 756px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 19px;
+	 z-index:141;
+} 
+
+ #bg_16 
+{ 
+	 left: -1px; 
+	 top: 499px; 
+	 position: absolute; 
+	 width: 468px;
+	 height: 503px;
+	 z-index:142;
+} 
+
+ #line_2 
+{ 
+	 left: -3px; 
+	 top: 497px; 
+	 position: absolute; 
+	 width: 470px;
+	 height: 506px;
+	 z-index:143;
+} 
+
+ #AllHouseCommercialPe 
+{ 
+	 left: 164px; 
+	 top: 673px; 
+	 position: absolute; 
+	 width: 71px;
+	 height: 67px;
+	 z-index:144;
+} 
+
+ #arrowicon_11 
+{ 
+	 left: 134px; 
+	 top: 668px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 19px;
+	 z-index:145;
+} 
+
+ #projects 
+{ 
+	 left: 217px; 
+	 top: 803px; 
+	 position: absolute; 
+	 width: 197px;
+	 height: 36px;
+	 z-index:146;
+} 
+
+ #bg_17 
+{ 
+	 left: -1px; 
+	 top: 499px; 
+	 position: absolute; 
+	 width: 1502px;
+	 height: 1268px;
+	 z-index:147;
+} 
+
+ #img_13 
+{ 
+	 left: 740px; 
+	 top: 732px; 
+	 position: absolute; 
+	 width: 611px;
+	 height: 815px;
+	 z-index:148;
+} 
+
+ #FONDUE_0 
+{ 
+	 left: 265px; 
+	 top: 958px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 23px;
+	 z-index:149;
+} 
+
+ #ProjectAssistantFran_0 
+{ 
+	 left: 263px; 
+	 top: 994px; 
+	 position: absolute; 
+	 width: 245px;
+	 height: 68px;
+	 z-index:150;
+} 
+
+ #Mergingdifferenttrad 
+{ 
+	 left: 265px; 
+	 top: 1109px; 
+	 position: absolute; 
+	 width: 543px;
+	 height: 140px;
+	 z-index:151;
+} 
+
+ #bg_18 
+{ 
+	 left: 431px; 
+	 top: 1301px; 
+	 position: absolute; 
+	 width: 103px;
+	 height: 104px;
+	 z-index:152;
+} 
+
+ #img_14 
+{ 
+	 left: 354px; 
+	 top: 1138px; 
+	 position: absolute; 
+	 width: 300px;
+	 height: 398px;
+	 z-index:153;
+} 
+
+ #bg_19 
+{ 
+	 left: 562px; 
+	 top: 1301px; 
+	 position: absolute; 
+	 width: 104px;
+	 height: 104px;
+	 z-index:154;
+} 
+
+ #img_15 
+{ 
+	 left: 549px; 
+	 top: 1246px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 210px;
+	 z-index:155;
+} 
+
+ #arrowsx 
+{ 
+	 left: 378px; 
+	 top: 1321px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 63px;
+	 z-index:156;
+} 
+
+ #arrowdx 
+{ 
+	 left: 688px; 
+	 top: 1321px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 63px;
+	 z-index:157;
+} 
+
+ #facebookicon_0 
+{ 
+	 left: 468px; 
+	 top: 1488px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 24px;
+	 z-index:158;
+} 
+
+ #twittericon_0 
+{ 
+	 left: 509px; 
+	 top: 1490px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 21px;
+	 z-index:159;
+} 
+
+ #gicon_0 
+{ 
+	 left: 559px; 
+	 top: 1490px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 21px;
+	 z-index:160;
+} 
+
+ #linicon_0 
+{ 
+	 left: 605px; 
+	 top: 1490px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 20px;
+	 z-index:161;
+} 
+
+ #borderbtn 
+{ 
+	 left: 1204px; 
+	 top: 576px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 103px;
+	 z-index:162;
+} 
+
+ #closebtn 
+{ 
+	 left: 1245px; 
+	 top: 617px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 21px;
+	 z-index:163;
+} 
+
+ #img_16 
+{ 
+	 left: -48px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1125px;
+	 height: 504px;
+	 z-index:164;
+} 
+
+ #bg_20 
+{ 
+	 left: 1033px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 468px;
+	 height: 503px;
+	 z-index:165;
+} 
+
+ #6493456758infodsgnst_0 
+{ 
+	 left: 1171px; 
+	 top: 373px; 
+	 position: absolute; 
+	 width: 133px;
+	 height: 27px;
+	 z-index:166;
+} 
+
+ #90802CaliforniaLongb_0 
+{ 
+	 left: 1095px; 
+	 top: 262px; 
+	 position: absolute; 
+	 width: 98px;
+	 height: 67px;
+	 z-index:167;
+} 
+
+ #line_3 
+{ 
+	 left: 1033px; 
+	 top: -4px; 
+	 position: absolute; 
+	 width: 470px;
+	 height: 506px;
+	 z-index:168;
+} 
+
+ #border 
+{ 
+	 left: 1208px; 
+	 top: 49px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 123px;
+	 z-index:169;
+} 
+
+ #icon 
+{ 
+	 left: 1250px; 
+	 top: 98px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 21px;
+	 z-index:170;
+} 
+
+ #bgbtn 
+{ 
+	 left: 1207px; 
+	 top: 49px; 
+	 position: absolute; 
+	 width: 129px;
+	 height: 123px;
+	 z-index:171;
+} 
+
+ #btn 
+{ 
+	 left: 1255px; 
+	 top: 92px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 35px;
+	 z-index:172;
+} 
+
+ #bgmenu 
+{ 
+	 left: 608px; 
+	 top: 49px; 
+	 position: absolute; 
+	 width: 602px;
+	 height: 123px;
+	 z-index:173;
+} 
+
+ #home 
+{ 
+	 left: 662px; 
+	 top: 106px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 12px;
+	 z-index:174;
+} 
+
+ #projects_0 
+{ 
+	 left: 766px; 
+	 top: 106px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 12px;
+	 z-index:175;
+} 
+
+ #studio_0 
+{ 
+	 left: 886px; 
+	 top: 106px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 12px;
+	 z-index:176;
+} 
+
+ #news_0 
+{ 
+	 left: 1004px; 
+	 top: 106px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 12px;
+	 z-index:177;
+} 
+
+ #contact 
+{ 
+	 left: 1109px; 
+	 top: 106px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 12px;
+	 z-index:178;
+} 
+
+ #facebookicon_1 
+{ 
+	 left: 188px; 
+	 top: 374px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 22px;
+	 z-index:179;
+} 
+
+ #twittericon_1 
+{ 
+	 left: 215px; 
+	 top: 374px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 21px;
+	 z-index:180;
+} 
+
+ #linkedinicon 
+{ 
+	 left: 250px; 
+	 top: 373px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 23px;
+	 z-index:181;
+} 
+
+ #gicon_1 
+{ 
+	 left: 287px; 
+	 top: 375px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:182;
+} 
+
+ #ASSOCIATESSTUDIODESI_0 
+{ 
+	 left: 168px; 
+	 top: 261px; 
+	 position: absolute; 
+	 width: 90px;
+	 height: 51px;
+	 z-index:183;
+} 
+
+ #DSGN_0 
+{ 
+	 left: 168px; 
+	 top: 50px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 207px;
+	 z-index:184;
+} 
+
+ #Layer109copy 
+{ 
+	 left: 135px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1230px;
+	 height: 3900px;
+	 z-index:185;
+} 

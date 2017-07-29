@@ -1,0 +1,148 @@
+// reset css
+
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+// colors
+$primary: #fff;
+$second: #000000;
+$third: #e9eae2;
+$fourth: #77cfc3;
+$five: #f3ece4;
+
+// common styles
+
+body {
+  width: 1200px;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: 'Roboto', sans-serif;
+  height: 100%;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+// navigation styles
+
+header {
+  width: 100%;
+  height: 300px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  z-index: 0;
+
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+
+    .header-left {
+      background-color: $third;
+      flex: 1 0 0;
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      align-items: flex-end;
+      justify-content: flex-start;
+
+      .header-logo {
+        display: flex;
+        justify-content: flex-end;
+        margin-top: 40px;
+        margin-bottom: 5px;
+
+        img {
+          width: 60%;
+          height: 60%;
+        }
+      }
+
+      .header-sign {
+        font-size: 11px;
+        font-weight: 500;
+        margin-bottom: 40px;
+        margin-right: 25px;
+
+        ul {
+          list-style: none;
+          display: inline-block;
+        }
+      }
+
+      .header-social {
+        img {
+          width: 60%;
+        }
+
+        li,
+        ul {
+          list-style: none;
+          display: inline-block;
+        }
+      }
+    }
+
+    .header-center {
+      background-color: $third;
+      flex: 2 0 0;
+      background-image: url("../images/img_16.png");
+      background-repeat: no-repeat;
+      background-position: right;
+      background-size: cover;
+    }
+
+    .header-right {
+      background-color: $fourth;
+      background-image: url("../images/line.png");
+      background-repeat: no-repeat;
+      background-position: right;
+      background-size: cover;
+      flex: 1 0 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      .right-up {
+        display: flex;
+        flex: 1 0 33%;
+      }
+
+      .right-center {
+        flex: 1 0 33%;
+        color: $five;
+        font-size: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        margin-right: 150px;
+      }
+
+      .right-down {
+        flex: 1 0 33%;
+        color: $five;
+        font-size: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin-top: 18px;
+      }
+    }
+  }
+}
